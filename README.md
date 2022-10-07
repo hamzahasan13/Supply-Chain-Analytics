@@ -2,24 +2,21 @@
 
 ## Table of Contents
 1) Tools used
-2) Overview
-3) Motivation
-4) Technical Aspect
-5) Data Visualizations
+2) Objective
+3) Technical Aspect
+4) Data Visualizations
 
 ### 1. Tools used
-<img src="" alt="drawing" width="600"/>
+<img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/R_logo.png" alt="drawing" width="200"/>
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/jupyter_nb.png" alt="drawing" width="300"/>
 
-### 2. Overview
-This is a dashboard built using Tableau which tracks KPIs using sales dataset.
-### 3. Motivation
-The main motivattion behind this project was to use data analytics to drive data driven decision making. By analyzing the dataset and building the dashboard, recommendations were tabulated in the report which pointed out on how to increase sales and profits for the company Big Mart.
+### 2. Objective
+Using R to perform Data Wrangling and Data Visualization to help with Data Driven Decision making. By analyzing the dataset and through data visualizations, insights were generated that helped with pointing out the potential areas that could help with making the supply chain process more efficient.
 
-### 4. Technical Aspect
+### 3. Technical Aspect
 The project is divided into three parts:
 * Data cleaning
 * Data visualization
 * Report writing
 
-### 5. Dashboard
-<img src="https://user-images.githubusercontent.com/114373000/194161092-94254ff4-6599-48f7-b8ea-3049106c62e7.png" alt="drawing" width="800"/>
+### 4. Data Visualization/Insights
