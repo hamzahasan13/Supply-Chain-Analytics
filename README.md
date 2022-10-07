@@ -19,4 +19,14 @@ The project is divided into three parts:
 * Data visualization
 * Report writing
 
-### 4. Data Visualization/Insights
+### 4. Insights/Visualizations
+
+<img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/insight1.JPG" alt="drawing" width="200"/>
+
+<img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/insight2.JPG" alt="drawing" width="200"/>
+
+<img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/insight5.JPG" alt="drawing" width="200"/>
+
+<img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/insight6.JPG" alt="drawing" width="200"/>
+
+<img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/shipping_mode_status.png" alt="drawing" width="500"/>
