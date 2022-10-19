@@ -5,6 +5,7 @@
 2) Objective
 3) Technical Aspect
 4) Data Visualizations
+5) Conclusion/Discussion
 
 ### 1. Tools used
 <img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/R_logo.png" alt="drawing" width="200"/>
@@ -30,3 +31,8 @@ The project is divided into three parts:
 <img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/insight6.JPG" alt="drawing" width="200"/>
 
 <img src="https://github.com/hamzahasan13/Supply-Chain-Analytics-in-R/blob/main/Images/shipping_mode_status.png" alt="drawing" width="500"/>
+
+### 5) Conclusion/Discussion
+* Late delivery of goods accounted for more than 55% of the total delivery status. 
+* Standard class was the most popular type of choice for customers with more than 90000 count.
+* Europe had the highest market in all of the regions with the highest sales per customer. 
